@@ -1,0 +1,15 @@
+
+.list-group{
+    flex-direction: row;; 
+    margin-right: 10px
+ }
+ 
+ li{
+     margin: 10px;
+  
+  }
+ 
+ .card-body h5{
+    color: purple;
+    overflow: hidden;
+ }

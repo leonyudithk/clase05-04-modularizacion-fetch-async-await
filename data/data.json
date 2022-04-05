@@ -1,0 +1,69 @@
+{
+    "products": [
+        {
+            "name": "Lemon",
+            "description": "Lemon is a common name for three fragrant and acid-flavored citrus fruits , mainly used in the food industry.",
+            "img": "https://res.cloudinary.com/duzf4vfki/image/upload/v1637781589/tiendita/Name_Limon_vvvmzr.jpg",
+            "price": 3,
+            "id": 1
+        },
+        {
+            "name": "Avocado",
+            "description": " It is a species native to Mesoamerica , specifically the highlands of central and eastern Mexico , Guatemala and El Salvador",
+            "img": "https://res.cloudinary.com/duzf4vfki/image/upload/v1637781589/tiendita/Name_Aguacate_nm0erw.jpg",
+            "price": 5,
+            "id": 2
+        },
+        {
+            "name": "Tomato",
+            "description": "The tomato is the fruit of the plant Solanum lycopersicum , which has culinary importance and is used as vegetables . It is considered a vegetable ",
+            "img": "https://res.cloudinary.com/duzf4vfki/image/upload/v1637781589/tiendita/Name_Tomate_nsrfc6.jpg",
+            "price": 1,
+            "id": 3
+        },
+        {
+            "name": "Orange",
+            "description": "It is a fleshy hesperidium with a more or less thick and hardened skin, and its pulp is typically made up of eleven segments or skins filled with juice",
+            "img": "https://res.cloudinary.com/duzf4vfki/image/upload/v1637781588/tiendita/Name_Naranja_syt1ko.jpg",
+            "price": 5,
+            "id": 4
+        },
+        {
+            "name": "Apple",
+            "description": "The apple is the edible fruit of the Malus domestica species , the common apple tree. It is a round shaped pomegranate fruit with a very sweet taste, depending on the variety.",
+            "img": "https://res.cloudinary.com/duzf4vfki/image/upload/v1637781588/tiendita/Name_Manzana_Golden_zlhwwl.jpg",
+            "price": 6,
+            "id": 5
+        }
+    ],
+    "users": [
+        {
+          "url": "https://res.cloudinary.com/duzf4vfki/image/upload/v1637622239/iconos/4_mjaxmb.png",
+          "name": "Isabella",
+          "email": "isa@gmail.com",
+          "description": "Lorem Ipsum",
+          "id": 1
+        },
+        {
+          "url": "https://res.cloudinary.com/duzf4vfki/image/upload/v1637622238/iconos/2_aywkbg.png",
+          "name": "Carlos",
+          "email": "carlos@gmail.com",
+          "description": "Lorem Ipsum",
+          "id": 2
+        },
+        {
+          "url": "https://res.cloudinary.com/duzf4vfki/image/upload/v1637622238/iconos/1_apyl7v.png",
+          "name": "Carla",
+          "email": "carla@gmail.com",
+          "description": "prueba",
+          "id": 3
+        },
+        {
+          "url": "https://res.cloudinary.com/duzf4vfki/image/upload/v1637622238/iconos/7_fxguvg.png",
+          "name": "David Betancur",
+          "email": "david@gmail.com",
+          "description": "prueba correo",
+          "id": 4
+        }
+      ]
+}
